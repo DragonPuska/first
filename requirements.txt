@@ -1,2 +1,1 @@
-Django==4.0.6
-libsqlite3-dev
+Django==3.2
